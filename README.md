@@ -1,2 +1,1 @@
-# Machine Learning projects 
-## 📉📈📊⭐
+# Machine Learning Projects 📊⭐
